@@ -1,0 +1,39 @@
+{
+  "name": "le-challenge-azure-storage",
+  "version": "1.0.0",
+  "description": "A challenge strategy for greenlock.js (node-letsencrypt) for setting, retrieving, and clearing ACME challenges by azure-storage as blobs",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolarcz/node-le-challenge-azure-storage.git"
+  },
+  "keywords": [
+    "acme",
+    "challenge",
+    "http",
+    "http-01",
+    "le",
+    "le-challenge",
+    "le-challenge-",
+    "le-challenge-azure",
+    "le-challenge-azure-storage",
+    "letsencrypt",
+    "node-letsencrypt",
+    "greenlock",
+    "node-greenlock",
+    "certbot",
+    "azure",
+    "azure-storage",
+    "blobs"
+  ],
+  "author": "Petr Kolář <kolarcz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kolarcz/node-le-challenge-azure-storage/issues"
+  },
+  "homepage": "https://github.com/kolarcz/node-le-challenge-azure-storage#readme",
+  "dependencies": {
+    "azure-storage": "^2.8.2"
+  }
+}
